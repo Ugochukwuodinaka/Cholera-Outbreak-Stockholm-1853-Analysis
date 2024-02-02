@@ -5,7 +5,7 @@
 ### Introduction:
 The cholera outbreak of 1853 in Stockholm, Sweden, colloquially known as "Kolera Katerina," represents a crucial moment in the city's history, where the convergence of urbanization and public health crises laid bare the vulnerabilities of a rapidly expanding metropolis. Originating in the Katarina neighborhood, the outbreak swiftly swept through the city, leaving devastation in its wake and exposing systemic shortcomings in sanitation infrastructure and healthcare provision.
 
-This is part of research work on the history of Stockholm in the 19th century. Since Sweden has well-preserved church archives this permits getting detailed information about e.g. pandemic events. In this data collection, Information was gathered about the large cholera outbreak in late August 1853. About 3% of the population died within a couple of weeks. Poor parts of the city, such as S:t Catherine parish was hit very hard. This project endeavors to illuminate some key information of the 1853 outbreak, delving into the demography of the victims and the cases trend by within the period.
+This is part of research work on the history of Stockholm in the 19th century. Since Sweden has well-preserved church archives this permits getting detailed information about e.g. pandemic events. In this data collection, Information was gathered about the large cholera outbreak in late August 1853 to the month of November, 1853. About 3% of the population died within a couple of weeks. Poor parts of the city, such as S:t Catherine parish was hit very hard. This project endeavors to illuminate some key information of the 1853 outbreak, delving into the demography of the victims and the cases trend by within the period.
 
 ### Problem Statement
 - What is the total number of cases within the scope of the period of this analysis?
@@ -55,3 +55,12 @@ By synthesizing these expected findings, the project aims to contribute valuable
 
 ## Visuals in Power BI:
 ![](Cholera_Outbreak_Stockholm_1853_Analysis_Dashboard.jpg)
+
+#### Analysis:
+From the analysis, our problem statement can be given answers to as seen below in this analysis:
+- The total number of cases within the analysis period is 248.
+- The average age of victims is 34.
+- The total number of male victims within this analysis period is 118
+- While the total number of female victims is 130.
+- Looking at the age distribution of victims, we could see that infants who were a year and below fell the highest victim to the cholera epidemic with about 13 infants, with other infants within the age of 2 to 4 having a large number of 23. 
+- From the dataset and within the 4 months of our analysis, which is August - November, the month of September withnessed the highest number of Cholera cases of 178, 87 of which are males while 91 victims are females. 
