@@ -37,8 +37,8 @@ By synthesizing these expected findings, the project aims to contribute valuable
 ### About The Dataset
 The data is collected from hand-written church records. The church was responsible for all population registration until around 1870. Only death records have been analyzed. Since Cholera has around 40% CFR we can assume a larger number of affected but surviving individuals.
 
-All data can be found at the National Archive of Sweden. See [here](https://sok.riksarkivet.se/digitalaforskarsalen) (press "Other languages" for an English version). Another important source for further analysis is "Sundhets-collegii underdåniga berättele om 
-Kolerafarsoten i Sverge, 1853" which is a broad overview of the epidemic situation in all of Sweden. This contemporary report can be found at Statistics Sweden (SCB). You can view or download the dataset [here](https://github.com/Ugochukwuodinaka/Cholera-Outbreak-Stockholm-1853-Analysis/blob/main/kolera-katarina-1853.csv). 
+All data can be found at the National Archive of Sweden. See [here](https://sok.riksarkivet.se/digitala-forskarsalen) (press "Other languages" for an English version). Another important source for further analysis is "Sundhets-collegii underdåniga berättele om 
+Kolerafarsoten i Sverge, 1853" which is a broad overview of the epidemic situation in all of Sweden. This contemporary report can be found at Statistics Sweden (SCB): See [link](https://share.scb.se/ov9993/data/historisk%20statistik/Officiell%20statistik%201811-1860%2FHälso-%20och%20sjukvården1851-1860%2FSundhetskollegii-underdaniga-berattelse-om-Medicinalverket-i-riket-1853-Bihang.pdf). You can view or download the dataset [here](https://github.com/Ugochukwuodinaka/Cholera-Outbreak-Stockholm-1853-Analysis/blob/main/kolera-katarina-1853.csv). 
 
 The dataset contains 8 columns (translated to English Language) and here's a breakdown of what each column represents:
 
