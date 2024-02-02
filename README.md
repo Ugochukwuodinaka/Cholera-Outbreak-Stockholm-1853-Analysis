@@ -52,3 +52,6 @@ By synthesizing these expected findings, the project aims to contribute valuable
 7. You can take a look of our final query editor screenshot below:
    
 ![](Power_Query_Editor.png)
+
+## Visuals in Power BI:
+![](Cholera_Outbreak_Stockholm_1853_Analysis_Dashboard.jpg)
