@@ -1,6 +1,15 @@
 # Cholera-Outbreak-Stockholm-1853-Analysis
 ![](Cholera_image.webp)
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [About The Dataset](#about-the-dataset)
+- [Tools Used](#tools-used)
+- [ETL Process using the Power Query Editor](#etl-process-using-the-power-query-editor)
+- [Visuals in Power BI:](#visuals-in-power-bi)
+- [Interact With Power BI Dashboard Report](#interact-with-power-bi-dashboard-report)
+- [Recommendations Towards Mitigating The Issues of Flight Delays and Cancellations](#recommendations-towards-mitigating-the-issues-of-flight-delays-and-cancellations)
+
 ## Project Overview
 ### Introduction:
 The cholera outbreak of 1853 in Stockholm, Sweden, colloquially known as "Kolera Katerina," represents a crucial moment in the city's history, where the convergence of urbanization and public health crises laid bare the vulnerabilities of a rapidly expanding metropolis. Originating in the Katarina neighborhood, the outbreak swiftly swept through the city, leaving devastation in its wake and exposing systemic shortcomings in sanitation infrastructure and healthcare provision.
@@ -110,6 +119,64 @@ From the analysis, our problem statement can be given answers to as seen below i
       systems, adherence to hygiene practices, and potentially lower exposure to contaminated environments compared to other age 
       groups. However, socio-economic factors, including access to clean water and sanitation facilities, may have also played a 
       role in shaping the incidence of cholera among teenagers.
+
+- September has the highest number of cases by gender and month trend with 178 cases of which 91 are females and 87 are males. The month of October recorded 40 cases, 26 of which are females, while 14 are males. 10 female cases where recorded in August and males were 2, totaling them to 12 cases. In November 7 female cases were recorded and males 4, totaling them to 11. We can dig deeper into this trend in analysis to generate more insight into factors that influence these large numbers within these months:
+
+   1. September: The highest number of cases occurred in September, with 91 females and 87 males affected. This could be attributed to 
+      various factors, including environmental conditions favoring cholera transmission, such as warmer temperatures or increased 
+      rainfall, which are conducive to bacterial growth in water sources. Additionally, socio-economic factors such as overcrowded 
+      living conditions or inadequate sanitation infrastructure may have contributed to heightened transmission rates during this period.
+
+   2. October: While the number of cases declined in October compared to September, a significant proportion of cases still occurred, 
+      with 26 females and 14 males affected. Factors influencing the continuation of the outbreak into October could include delayed 
+      implementation of public health interventions, ongoing contamination of water sources, or challenges in accessing clean water and 
+      sanitation facilities in affected areas.
+
+   3. August and November: Although fewer cases were reported in August and November compared to September and October, they still 
+      contributed to the overall burden of the outbreak. The occurrence of cases in August may indicate the initial stages of the 
+      outbreak, while cases in November suggest ongoing transmission or localized outbreaks. Factors such as population movements, 
+      migration patterns, or changes in weather conditions could have influenced the distribution of cases during these months.
+
+- From the Cholera cases trend across days by gender within this analysis period, we could see that Thurdays witnessed the highest number of cases with 44, 25 of which are females and 19 males. Tuesdays follows with 24 females and 20 males, making them 44. Mondays and Saturdays recorded same figures with 21 females and 16 males respectively, a total of 37 each. Fridays follows next with a total of 26, 15 females and 11 males, lastly Sundays witnessed a total of 21 cases, 10 females and 11 males. We may also want to know what influenced these number of cholera cases on these days of the week:
+
+   1. Thursdays: The highest number of cases occurring on Thursdays could be attributed to various factors, including behavioral 
+      patterns such as increased social activities or gatherings leading to higher exposure to contaminated food or water sources. 
+      Additionally, factors such as food preparation practices, sanitation conditions, or water supply disruptions may contribute to 
+      heightened transmission rates on Thursdays.
+
+   2. Tuesdays: Similar to Thursdays, Tuesdays also witnessed a relatively high number of cases, potentially reflecting similar 
+      behavioral or environmental factors influencing cholera transmission. Increased mobility or commerce activities, such as market 
+      days or transportation of goods, could contribute to higher exposure levels on Tuesdays.
+
+   3. Mondays and Saturdays: The occurrence of similar numbers of cases on Mondays and Saturdays suggests that certain routine 
+      activities or environmental conditions may be contributing to cholera transmission on these days. Factors such as communal 
+      gatherings, religious ceremonies, or variations in water supply and sanitation services could influence the distribution of cases 
+      on Mondays and Saturdays.
+
+   4. Fridays and Sundays: While Fridays witnessed a slightly higher number of cases compared to Sundays, both days had relatively lower 
+      case counts compared to Thursdays and Tuesdays. Factors such as reduced commercial activities, changes in social behaviors, or 
+      improved access to healthcare services on weekends may contribute to the lower number of cases on Fridays and Sundays.
+
+## Interact With Power BI Dashboard Report
+You can interact with this report [here](https://app.powerbi.com/view?r=eyJrIjoiNjkxZmMxMDYtMWMyYS00Yjc3LTlkYjItNDgzNjBhM2Q3ZjU5IiwidCI6IjdlYzI5NjU5LTNjZjItNGYzZi1hYmIzLWE3MjJlZGY3ZmYyZCJ9).This dashboard report of Cholera Outbreak, Stockholm, 1883 Analysis displays an interactive visual of this project in power BI.
+
+## Conclusion
+- In summary, the analysis of the cholera outbreak in Stockholm in 1883 shows how factors like sanitation, education, and collaboration influence disease spread. Understanding these patterns helps us learn how to prevent outbreaks in the future. By improving hygiene, educating the public, and working together, we can better protect communities from diseases like cholera.
+
+- It also teaches us important lessons about preventing diseases. By keeping things clean, teaching people how to stay healthy, and working together, we can stop outbreaks from happening. It's a reminder that simple actions can make a big difference in keeping communities safe and healthy.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
