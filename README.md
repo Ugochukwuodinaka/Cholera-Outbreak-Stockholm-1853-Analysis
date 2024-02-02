@@ -13,10 +13,10 @@
 ### Introduction:
 The cholera outbreak of 1853 in Stockholm, Sweden, colloquially known as "Kolera Katerina," represents a crucial moment in the city's history, where the convergence of urbanization and public health crises laid bare the vulnerabilities of a rapidly expanding metropolis. Originating in the Katarina neighborhood, the outbreak swiftly swept through the city, leaving devastation in its wake and exposing systemic shortcomings in sanitation infrastructure and healthcare provision.
 
-This is part of research work on the history of Stockholm in the 19th century. Since Sweden has well-preserved church archives this permits getting detailed information about e.g. pandemic events. In this data collection, Information was gathered about the large cholera outbreak in late August 1853 to the month of November, 1853. About 3% of the population died within a couple of weeks. Poor parts of the city, such as S:t Catherine parish was hit very hard. This project endeavors to illuminate some key information of the 1853 outbreak, delving into the demography of the victims and the cases trend by within the period.
+This is part of research work on the history of Stockholm in the 19th century. Since Sweden has well-preserved church archives this permits getting detailed information about e.g. pandemic events. In this data collection, Information was gathered about the large cholera outbreak in late August 1853 to the month of November, 1853. About 3% of the population died within a couple of weeks. Poor parts of the city, such as S:t Catherine parish was hit very hard. This project endeavors to illuminate some key information of the 1853 outbreak, delving into the demography of the victims and the cases trend within the period.
 
 ### Problem Statement
-- What is the total number of cases within the scope of the period of this analysis?
+- What is the total number of cases within the period of this analysis?
 - What is the average age of victims?
 - What is the total number of male victims?
 - What is the total number of female victims?
@@ -40,6 +40,23 @@ The data is collected from hand-written church records. The church was responsib
 All data can be found at the National Archive of Sweden. See ![](https://sok.riksarkivet.se/digitalaforskarsalen (press "Other languages" for an English version)). Another important source for further analysis is "Sundhets-collegii underdåniga berättele om 
 Kolerafarsoten i Sverge, 1853" which is a broad overview of the epidemic situation in all of Sweden. This contemporary report can be found at Statistics Sweden (SCB). You can view or download the dataset [here](https://github.com/Ugochukwuodinaka/Cholera-Outbreak-Stockholm-1853-Analysis/blob/main/kolera-katarina-1853.csv). 
 
+The dataset contains 8 columns (translated to English Language) and here's a breakdown of what each column represents:
+
+- Date_of_Birth: This column contains the date of birth of individuals affected by the cholera outbreak. It provides information about the age of the individuals, which is essential for demographic analysis.
+
+- Name: This column contains the names of the individuals affected by the cholera outbreak. It helps identify and track individual cases, allowing for more detailed analysis and record-keeping.
+
+- Profession: This column lists the professions or occupations of the individuals affected by the cholera outbreak. It provides insights into the demographics and socio-economic characteristics of the affected population.
+
+- Gender: This column indicates the gender of the individuals affected by the cholera outbreak. It allows for gender-based analysis of the outbreak, which may reveal disparities or differences in disease susceptibility and outcomes.
+
+- Age: This column contains the age of the individuals affected by the cholera outbreak. It provides numerical data on the age distribution of cases, which is essential for epidemiological analysis and understanding disease patterns.
+
+- Assembly: This column refers to the administrative or geographical assembly to which the individuals belong. It helps organize and categorize the data based on location, which can be useful for spatial analysis and identifying clusters of cases.
+
+- Archive_Ref: This column contains references to archival sources or documents related to the cholera outbreak. It provides information about the sources of the data, allowing for transparency and verification of the analysis.
+
+- Page: This column refers to the page numbers of the archival documents or sources containing information about the cholera outbreak. It helps locate and retrieve specific records or data entries within the source material.
 
 ### Tools Used
 1. Power Query Editor
