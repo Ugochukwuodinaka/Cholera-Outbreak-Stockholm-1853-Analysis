@@ -54,7 +54,7 @@ By synthesizing these expected findings, the project aims to contribute valuable
 ![](Power_Query_Editor.png)
 
 ## Visuals in Power BI:
-![](Cholera_Outbreak_Stockholm_1853_Analysis_Dashboard.jpg)
+![](Cholera_Outbreak_Stockholm_1853_Analysis_Dashboard1.jpg)
 
 #### Analysis:
 From the analysis, our problem statement can be given answers to as seen below in this analysis:
