@@ -5,10 +5,9 @@
 - [Project Overview](#project-overview)
 - [About The Dataset](#about-the-dataset)
 - [Tools Used](#tools-used)
-- [ETL Process using the Power Query Editor](#etl-process-using-the-power-query-editor)
 - [Visuals in Power BI:](#visuals-in-power-bi)
 - [Interact With Power BI Dashboard Report](#interact-with-power-bi-dashboard-report)
-- [Recommendations Towards Mitigating The Issues of Flight Delays and Cancellations](#recommendations-towards-mitigating-the-issues-of-flight-delays-and-cancellations)
+- [Conclusion](#conclusion)
 
 ## Project Overview
 ### Introduction:
