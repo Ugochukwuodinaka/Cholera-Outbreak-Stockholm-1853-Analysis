@@ -21,8 +21,8 @@ The analysis aims to investigate the epidemiological patterns and demographic ch
 - What is the average age of victims?
 - What is the total number of male victims?
 - What is the total number of female victims?
-- What is the cholera cases trend by gender monthly?
-- What is the cholera cases trend by gender daily?
+- What is the trend of Cholera cases by gender monthly?
+- What is the trend of Cholera cases by gender daily?
 
 ### Expected Finding:
 - In addressing the outlined problem statement concerning the cholera outbreak of 1853 in Stockholm, several key findings are anticipated. Firstly, the project aims to ascertain the total number of reported cases within the specified period of analysis, offering a comprehensive understanding of the outbreak's scale and impact on the population.
@@ -41,7 +41,7 @@ The data is collected from hand-written church records. The church was responsib
 All data can be found at the National Archive of Sweden. See [here](https://sok.riksarkivet.se/digitala-forskarsalen) (press "Other languages" for an English version). Another important source for further analysis is "Sundhets-collegii underdåniga berättele om 
 Kolerafarsoten i Sverge, 1853" which is a broad overview of the epidemic situation in all of Sweden. This contemporary report can be found at Statistics Sweden (SCB): See [link](https://share.scb.se/ov9993/data/historisk%20statistik/Officiell%20statistik%201811-1860%2FHälso-%20och%20sjukvården1851-1860%2FSundhetskollegii-underdaniga-berattelse-om-Medicinalverket-i-riket-1853-Bihang.pdf). You can view or download the dataset [here](https://github.com/Ugochukwuodinaka/Cholera-Outbreak-Stockholm-1853-Analysis/blob/main/kolera-katarina-1853.csv). 
 
-The dataset contains 8 columns (translated to English Language) and here's a breakdown of what each column represents:
+The dataset contains 8 columns (translated to English Language) and 249 rows of data. Here's a breakdown of what each column represents:
 
 - Date_of_Birth: This column contains the date of birth of individuals affected by the cholera outbreak. It provides information about the age of the individuals, which is essential for demographic analysis.
 
@@ -76,12 +76,12 @@ The dataset contains 8 columns (translated to English Language) and here's a bre
 
 ### ETL Process using the Power Query Editor:
 1. Ttranslated all the colume headers in Swedish language to English for easy understanding
-2. Translated all the rows of the Profession, Gender, and Assembly from Swesih language to English for a better understanding of the table data.
+2. Translated all the rows of the Profession, Gender, and Assembly from Swedish language to English language for a better understanding of the table data.
 3. Transformed the column types in all the tables to the right column types.
-4. Added a new column "Age_Band" from the "Age" column to enable me group the victims into age brackets using the "If Statement".
+4. Added a new column "Age_Band" from the "Age" column to enable me group the victims into age brackets using the "If function".
 5. Changed the "Date_of_Death" column type to "date".
-6. Added another column "Day" from the "Date_of_Death" column to display days of the week (sunday - saturday).
-6. Re-ordered all the columns in the **flights** table accordingly.
+6. Added another column "Day" from the "Date_of_Death" column to display days of the week (sunday - saturday) using the "If function".
+6. Re-ordered all the columns in the table accordingly.
 7. You can take a look at the raw data abd the final query editor screenshot below:
 
 **Raw Data**
@@ -95,13 +95,13 @@ The dataset contains 8 columns (translated to English Language) and here's a bre
 ![](Cholera_Outbreak_Stockholm_1853_Analysis_Dashboard1.jpg)
 
 #### Analysis:
-From the analysis, our problem statement can be given answers to as seen below in this analysis:
-- The total number of cases within the analysis period is 248.
-- The average age of victims is 34.
-- The total number of male victims within this analysis period is 118
-- While the total number of female victims is 130.
-- Looking at the age distribution of victims, we could see that infants who were a year and below fell the highest victim to the cholera epidemic with about 13 infants, with other infants within the age of 2 to 4 having a large number of 23. Young adults are the second group of people that had the highest number of victims after the children. Those aged 33 withnessed 10 cases, those 34yrs had 7 cases, , those 37 had 8 cases. Those within the age of 20 - 39 fell victims to this outbreak the most. Those within the age of 40 - 60 follows also with a high figure, the least of them were the old aged.
-- From our analysis, the female gender had more casualties within this period of analysis than the male gender with 126 victins with a 52.28% share of the victims while the males had 115 victims with a 47.72% share. We may ask, why did we record more deaths of the females than the males? This can be attributed to the below factors:
+From the analysis, our problem statement can be given answers to as analyzed below:
+- The total number of cases within the analysis period was 248.
+- The average age of the victims was 34.
+- The total number of male victims within this analysis period was 118
+- While the total number of female victims was 130.
+- Looking at the age distribution of victims, we could deduce that infants who were a year old or below were more susceptible to the cholera epidemic and had the highest number of the cholera epidemic cases which was about 13 infants, with other infants within the age of 2 to 4 having a large number of 23 together. Young adults were the second group of people that had the highest number of cases after the children. Victims aged 33 withnessed 10 cases, those 34yrs of age had 7 cases, those 37yrs of age accounted for 8 cases. Those within the age of 20 - 39yrs of age fell victims to this outbreak the most. Those within the age of 40 - 60yrs of age follows also with a high figure, followed by the old aged, and lastly, by the teenagers.
+- From our analysis, the female gender had more casualties within this period of analysis than the male gender with 126 victins and a 52.28% share of the victims count, while the males had 115 victims with a 47.72% share of the count. We may ask, why did we record more deaths of the females than the males? Is there a reason for this? From our analysis, this can be attributed to the below factors:
 
    1. In many societies during that era, women often had different roles and behaviors compared to men. For instance, they might 
       have been more involved in caregiving or household activities, which could have increased their exposure to contaminated water 
@@ -124,7 +124,7 @@ From the analysis, our problem statement can be given answers to as seen below i
    6. Cultural norms and expectations regarding behavior, such as modesty or deference to male authority figures, might have 
       influenced women's ability to seek timely medical care or adopt preventive measures against cholera.
 
-- From the Age Band distribution, we can could see that Young Adults (20 - 39yrs) had the highest number of cholera cases of 80, while the Mid Aged (40 - 60yrs) follows witb 78 cases. The Children (less than 1 - 12yrs) follows with 52 cases, the Old Aged (60+yrs) with 25, and lastly, the Teenagers (13 - 19yrs) with 6 cases. We may also go further to analyze this age band case tolls and what could have influenced the numbers:
+- From the Age Band distribution, we could see that Young Adults (20 - 39yrs) had the highest number of cholera cases of 80, while the Mid Aged (40 - 60yrs) follows witb 78 cases. The Children (less than 1 - 12yrs) follows with 52 cases, the Old Aged (60+yrs) with 25, and lastly, the Teenagers (13 - 19yrs) with 6 cases. We may also go further to analyze this age band case tolls and what could have influenced the numbers among the different age bands. From further analysis, i was able to deduce the following poits:
 
    1. Young Adults (20 - 39yrs): The high number of cases in this age group could be attributed to factors such as increased 
       mobility, social interaction, and exposure to contaminated environments. Young adults may have been more likely to engage in 
@@ -149,7 +149,7 @@ From the analysis, our problem statement can be given answers to as seen below i
       groups. However, socio-economic factors, including access to clean water and sanitation facilities, may have also played a 
       role in shaping the incidence of cholera among teenagers.
 
-- September has the highest number of cases by gender and month trend with 178 cases of which 91 are females and 87 are males. The month of October recorded 40 cases, 26 of which are females, while 14 are males. 10 female cases where recorded in August and males were 2, totaling them to 12 cases. In November 7 female cases were recorded and males 4, totaling them to 11. We can dig deeper into this trend in analysis to generate more insight into factors that influence these large numbers within these months:
+- September had the highest number of cases trend by gender and month with 178 cases of which 91 were females and 87 were males. The month of October recorded 40 cases, 26 of which were females, while 14 were males. 10 female cases were recorded in the month of August and males were 2, totaling 12 cases. In November, 7 female cases were recorded and 4 male cases, totaling them to 11 cases. We can dig deeper into this trend in our analysis to generate more insight into factors that may have influenced these large figures within the specified months:
 
    1. September: The highest number of cases occurred in September, with 91 females and 87 males affected. This could be attributed to 
       various factors, including environmental conditions favoring cholera transmission, such as warmer temperatures or increased 
@@ -166,7 +166,7 @@ From the analysis, our problem statement can be given answers to as seen below i
       outbreak, while cases in November suggest ongoing transmission or localized outbreaks. Factors such as population movements, 
       migration patterns, or changes in weather conditions could have influenced the distribution of cases during these months.
 
-- From the Cholera cases trend across days by gender within this analysis period, we could see that Thurdays witnessed the highest number of cases with 44, 25 of which are females and 19 males. Tuesdays follows with 24 females and 20 males, making them 44. Mondays and Saturdays recorded same figures with 21 females and 16 males respectively, a total of 37 each. Fridays follows next with a total of 26, 15 females and 11 males, lastly Sundays witnessed a total of 21 cases, 10 females and 11 males. We may also want to know what influenced these number of cholera cases on these days of the week:
+- From the trend of Cholera cases across the days of the week by gender within this analysis period, our insight shows that Thurdays witnessed the highest number of cases with 44 cases, 25 of which were females and 19 were males. Tuesdays follows with 24 female cases and 20 male cases, making them 44 cases. Mondays and Saturdays recorded same figures of 21 females and 16 males respectively, a total of 37 apiece. Fridays follows next with a total of 26 cases, 15 from the female folks, while 11 were from the male folks. Lastly, Sundays witnessed a total of 21 cases, 10 females and 11 males respectively. We may also want to know what influenced these great number of cholera cases on these diffrent days of the week. My further analysis raised some insights:
 
    1. Thursdays: The highest number of cases occurring on Thursdays could be attributed to various factors, including behavioral 
       patterns such as increased social activities or gatherings leading to higher exposure to contaminated food or water sources. 
@@ -187,7 +187,7 @@ From the analysis, our problem statement can be given answers to as seen below i
       improved access to healthcare services on weekends may contribute to the lower number of cases on Fridays and Sundays.
 
 ## Interact With Power BI Dashboard Report
-You can interact with this report [here](https://app.powerbi.com/view?r=eyJrIjoiNjkxZmMxMDYtMWMyYS00Yjc3LTlkYjItNDgzNjBhM2Q3ZjU5IiwidCI6IjdlYzI5NjU5LTNjZjItNGYzZi1hYmIzLWE3MjJlZGY3ZmYyZCJ9).This dashboard report of Cholera Outbreak, Stockholm, 1883 Analysis displays an interactive visual of this project in power BI.
+You can interact with this report [here](https://app.powerbi.com/view?r=eyJrIjoiNjkxZmMxMDYtMWMyYS00Yjc3LTlkYjItNDgzNjBhM2Q3ZjU5IiwidCI6IjdlYzI5NjU5LTNjZjItNGYzZi1hYmIzLWE3MjJlZGY3ZmYyZCJ9).The dashboard report on Cholera Outbreak, Stockholm, 1883 Analysis displays an interactive visual of the project in power BI.
 
 ## Conclusion
 - In summary, the analysis of the cholera outbreak in Stockholm in 1883 shows how factors like sanitation, education, and collaboration influence disease spread. Understanding these patterns helps us learn how to prevent outbreaks in the future. By improving hygiene, educating the public, and working together, we can better protect communities from diseases like cholera.
