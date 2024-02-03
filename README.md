@@ -16,6 +16,7 @@ The cholera outbreak of 1853 in Stockholm, Sweden, colloquially known as "Kolera
 This is part of research work on the history of Stockholm in the 19th century. Since Sweden has well-preserved church archives this permits getting detailed information about e.g. pandemic events. In this data collection, Information was gathered about the large cholera outbreak in late August 1853 to the month of November, 1853. About 3% of the population died within a couple of weeks. Poor parts of the city, such as S:t Catherine parish was hit very hard. This project endeavors to illuminate some key information of the 1853 outbreak, delving into the demography of the victims and the cases trend within the period.
 
 ### Problem Statement
+The analysis aims to investigate the epidemiological patterns and demographic characteristics of the Cholera Outbreak in Stockholm in 1883, with a focus on understanding the factors influencing disease transmission and impact. Specifically, the study seeks to address the following research questions:
 - What is the total number of cases within the period of this analysis?
 - What is the average age of victims?
 - What is the total number of male victims?
