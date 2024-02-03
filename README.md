@@ -82,8 +82,13 @@ The dataset contains 8 columns (translated to English Language) and here's a bre
 5. Changed the "Date_of_Death" column type to "date".
 6. Added another column "Day" from the "Date_of_Death" column to display days of the week (sunday - saturday).
 6. Re-ordered all the columns in the **flights** table accordingly.
-7. You can take a look of our final query editor screenshot below:
-   
+7. You can take a look at the raw data abd the final query editor screenshot below:
+
+**Raw Data**
+![](Raw_Data.png)
+
+**Final query editor screenshot**
+
 ![](Power_Query_Editor.png)
 
 ## Visuals in Power BI:
