@@ -75,7 +75,7 @@ The dataset contains 8 columns (translated to English Language) and 249 rows of 
         5. Tooltips
 
 ### ETL Process using the Power Query Editor:
-1. Ttranslated all the colume headers in Swedish language to English for easy understanding
+1. Translated all the colume headers in Swedish language to English for easy understanding
 2. Translated all the rows of the Profession, Gender, and Assembly from Swedish language to English language for a better understanding of the table data.
 3. Transformed the column types in all the tables to the right column types.
 4. Added a new column "Age_Band" from the "Age" column to enable me group the victims into age brackets using the "If function".
