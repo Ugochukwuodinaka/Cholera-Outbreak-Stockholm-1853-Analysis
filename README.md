@@ -91,6 +91,9 @@ The dataset contains 8 columns (translated to English Language) and 249 rows of 
 
 ![](images/Power_Query_Editor.png)
 
+## Data Modelling
+No modelling was required since we need just a table for the analysis.
+
 ## Visuals in Power BI:
 ![](images/Cholera_Outbreak_Stockholm_1853_Analysis_Dashboard.jpg)
 
