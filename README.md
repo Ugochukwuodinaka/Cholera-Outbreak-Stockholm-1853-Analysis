@@ -92,7 +92,7 @@ The dataset contains 8 columns (translated to English Language) and 249 rows of 
 ![](images/Power_Query_Editor.png)
 
 ## Visuals in Power BI:
-![](images/Cholera_Outbreak_Stockholm_1853_Analysis_Dashboard1.jpg)
+![](images/Cholera_Outbreak_Stockholm_1853_Analysis_Dashboard.jpg)
 
 #### Analysis:
 From the analysis, our problem statement can be given answers to as analyzed below:
