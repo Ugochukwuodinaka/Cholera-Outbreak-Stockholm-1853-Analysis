@@ -102,10 +102,10 @@ No modelling was required since we need just a table for the analysis.
 
 #### Analysis:
 From the analysis, our problem statement can be given answers to as analyzed below:
-- The total number of cases within the analysis period was 248.
-- The average age of the victims was 34.
-- The total number of male victims within this analysis period was 118
-- While the total number of female victims was 130.
+- The total number of cases within the analysis period was __248.__
+- The average age of the victims was __34.__
+- The total number of male victims within this analysis period was __118.__
+- While the total number of female victims was __130.__
 - Looking at the age distribution of victims, we could deduce that infants who were a year old or below were more susceptible to the cholera epidemic and had the highest number of the cholera epidemic cases which was about 13 infants, with other infants within the age of 2 to 4 having a large number of 23 together. Young adults were the second group of people that had the highest number of cases after the children. Victims aged 33 withnessed 10 cases, those 34yrs of age had 7 cases, those 37yrs of age accounted for 8 cases. Those within the age of 20 - 39yrs of age fell victims to this outbreak the most. Those within the age of 40 - 60yrs of age follows also with a high figure, followed by the old aged, and lastly, by the teenagers.
 - From our analysis, the female gender had more casualties within this period of analysis than the male gender with 126 victins and a 52.28% share of the victims count, while the males had 115 victims with a 47.72% share of the count. We may ask, why did we record more deaths of the females than the males? Is there a reason for this? From our analysis, this can be attributed to the below factors:
 
@@ -199,23 +199,3 @@ You can interact with this report [here](https://app.powerbi.com/view?r=eyJrIjoi
 - In summary, the analysis of the cholera outbreak in Stockholm in 1883 shows how factors like sanitation, education, and collaboration influence disease spread. Understanding these patterns helps us learn how to prevent outbreaks in the future. By improving hygiene, educating the public, and working together, we can better protect communities from diseases like cholera.
 
 - It also teaches us important lessons about preventing diseases. By keeping things clean, teaching people how to stay healthy, and working together, we can stop outbreaks from happening. It's a reminder that simple actions can make a big difference in keeping communities safe and healthy.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
