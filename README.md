@@ -1,4 +1,4 @@
-# Cholera-Outbreak-Stockholm-1853-Analysis
+# Cholera Outbreak, Stockholm (1853) Analysis
 ![](images/Cholera_image.webp)
 
 ## Table of Contents
