@@ -59,6 +59,13 @@ The dataset contains 8 columns (translated to English Language) and 249 rows of 
 
 - __Page:__ This column refers to the page numbers of the archival documents or sources containing information about the cholera outbreak. It helps locate and retrieve specific records or data entries within the source material.
 
+### Skills Utilized
+1. Data Cleaning
+2. Data Visualiziation
+3. Descriptive Analytics
+4. Critical Thinking and Problem Solving
+5. Communication and Reporting
+
 ### Tools Used
 1. Power Query Editor
     - Was used to:
@@ -199,3 +206,5 @@ You can interact with this report [here](https://app.powerbi.com/view?r=eyJrIjoi
 - In summary, the analysis of the cholera outbreak in Stockholm in 1883 shows how factors like sanitation, education, and collaboration influence disease spread. Understanding these patterns helps us learn how to prevent outbreaks in the future. By improving hygiene, educating the public, and working together, we can better protect communities from diseases like cholera.
 
 - It also teaches us important lessons about preventing diseases. By keeping things clean, teaching people how to stay healthy, and working together, we can stop outbreaks from happening. It's a reminder that simple actions can make a big difference in keeping communities safe and healthy.
+
+## Thank You For Following Through!
