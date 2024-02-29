@@ -67,7 +67,7 @@ The dataset contains 8 columns (translated to English Language) and 249 rows of 
 5. Communication and Reporting
 
 ### Tools Used
-1. Power Query Editor
+1. MS Sql Server
     - Was used to:
         1. Extract,
         2. Transform, and
@@ -81,23 +81,23 @@ The dataset contains 8 columns (translated to English Language) and 249 rows of 
         4. Filters,
         5. Tooltips
 
-### ETL Process using the Power Query Editor:
-1. Translated all the colume headers in __Swedish language__ to -__English__ for easy understanding
-2. Translated all the rows of the __Profession__, __Gender__, and __Assembly__ columns from __Swedish language__ to __English language__ for a better understanding of the table data.
-3. Transformed the column types in all the tables to the right column types.
-4. Added a new column __"Age_Band"__ from the __"Age"__ column to enable me group the victims into __age brackets__ using the "If function".
-5. Changed the __"Date_of_Death"__ column type to "date".
-6. Added another column __"Day"__ from the __"Date_of_Death"__ column to display days of the week (sunday - saturday) using the "If function".
-6. Re-ordered all the columns in the table accordingly.
-7. You can take a look at the raw data abd the final query editor screenshot below:
+### ETL Process using MS Sql Server:
+1. Translated all the colume headers in __Swedish language__ to -__English__ for easy understanding.
+2. Transformed the column types in all the tables to the right column types.
+3. Translated rows in the __Name__ and __Profession__ columns from __Swedish language__ to __English language__ for a better understanding of the table data (did this in excel with the help of a language translation site because of the volume of data rows) .
+4. Translated all the rows of the __Gender__ and __Assembly__ columns from __Swedish language__ to __English language__ for a better understanding of the table data.
+5. Added a new column __"Age_Band"__ from the __"Age"__ column to enable me group the victims into __age brackets__ using the "Update" and "Set query".
+6. Added another column __"Day"__ from the __"Date_of_Death"__ column to display days of the week (sunday - saturday) using the "Update" and "Set query".
+7. Re-ordered all the columns in the table accordingly.
+8. You can take a look at the raw data and the sql query screenshot below:
 
 **Raw Data**
 ![](images/Raw_Data.png)
 
 
-**Final query editor screenshot**
+** Sql Server Query screenshot**
 
-![](images/Power_Query_Editor.png)
+![](images/MS_Sql_Server_Screenshot.png)
 
 
 ## Data Modelling
