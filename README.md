@@ -97,7 +97,7 @@ Raw Data Screencshot                                                            
 :---------------------------------------------------------------------------------:|
 ![](images/Raw_Data.png)
 
-
+You can access the MS Sql Server query file [here](kolera-katarina-1853.csv)
 
 
 Sql Query Screenshot                                                               |                       
