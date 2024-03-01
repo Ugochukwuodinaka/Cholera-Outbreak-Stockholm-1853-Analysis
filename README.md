@@ -70,8 +70,9 @@ The dataset contains 8 columns (translated to English Language) and 249 rows of 
 1. MS Sql Server
     - Was used to:
         1. Extract,
-        2. Transform, and
-        3. Load all the datasets for this analysis.
+        2. Clean,
+        3. Transform, and
+        4. Load all the datasets for this analysis.
            
 2. Power BI (Was used to create reports and dashboard for this analysis)
     - The following Power BI Features were incorporated:
@@ -95,9 +96,12 @@ The dataset contains 8 columns (translated to English Language) and 249 rows of 
 ![](images/Raw_Data.png)
 
 
-** Sql Server Query screenshot**
-
+Sql Query Screenshot                                                               |                       
+:---------------------------------------------------------------------------------:|
 ![](images/MS_Sql_Server_Screenshot.png)
+
+You can access the MS Sql Server query file [here](Cholera_Outbreak_Stockholm_1853_Project.sql)
+
 
 
 ## Data Modelling
