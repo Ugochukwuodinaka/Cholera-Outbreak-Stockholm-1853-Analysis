@@ -92,8 +92,12 @@ The dataset contains 8 columns (translated to English Language) and 249 rows of 
 7. Re-ordered all the columns in the table accordingly.
 8. You can take a look at the raw data and the sql query screenshot below:
 
-**Raw Data**
+
+Raw Data Screencshot                                                               |                       
+:---------------------------------------------------------------------------------:|
 ![](images/Raw_Data.png)
+
+
 
 
 Sql Query Screenshot                                                               |                       
