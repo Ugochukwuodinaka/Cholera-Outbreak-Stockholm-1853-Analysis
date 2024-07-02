@@ -221,7 +221,7 @@ From the analysis, our problem statement can be given answers to as analyzed bel
 <br />
 <br />
 
-- <img src="images/Cholera_Cases_Trend_Across_Ddays_by_Gender.jpg" width="500">
+- <img src="images/Cholera_Cases_Trend_Across_Days_by_Gender.jpg" width="500">
 
 - **Cholera Cases Trend Across Days by Gender:**
 - From the trend of Cholera cases across the days of the week by gender within this analysis period, our insight shows that Thurdays witnessed the highest number of cases with 44 cases, 25 of which were females and 19 were males. Tuesdays follows with 24 female cases and 20 male cases, making them 44 cases. Mondays and Saturdays recorded same figures of 21 females and 16 males respectively, a total of 37 apiece. Fridays follows next with a total of 26 cases, 15 from the female folks, while 11 were from the male folks. Lastly, Sundays witnessed a total of 21 cases, 10 females and 11 males respectively. We may also want to know what influenced these great number of cholera cases on these diffrent days of the week. My further analysis raised some insights:
@@ -248,6 +248,8 @@ From the analysis, our problem statement can be given answers to as analyzed bel
 
 ## Interact With Power BI Dashboard Report
 You can interact with this report [here](https://app.powerbi.com/view?r=eyJrIjoiNjkxZmMxMDYtMWMyYS00Yjc3LTlkYjItNDgzNjBhM2Q3ZjU5IiwidCI6IjdlYzI5NjU5LTNjZjItNGYzZi1hYmIzLWE3MjJlZGY3ZmYyZCJ9).The dashboard report on Cholera Outbreak, Stockholm, 1883 Analysis displays an interactive visual of the project in power BI.
+<br />
+<br />
 <br />
 <br />
 
