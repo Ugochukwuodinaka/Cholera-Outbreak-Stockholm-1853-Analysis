@@ -37,6 +37,7 @@ The analysis aims to investigate the epidemiological patterns and demographic ch
 
 By synthesizing these expected findings, the project aims to contribute valuable insights into the epidemiological dynamics of the Kolera Katerina outbreak, facilitating informed decision-making and enhancing our understanding of historical public health crises.
 <br />
+<br />
 
 ### About The Dataset
 The data is collected from hand-written church records. The church was responsible for all population registration until around 1870. Only death records have been analyzed. Since Cholera has around 40% CFR we can assume a larger number of affected but surviving individuals.
