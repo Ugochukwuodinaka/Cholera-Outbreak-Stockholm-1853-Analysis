@@ -1,5 +1,6 @@
 # Cholera Outbreak, Stockholm (1853) Analysis
 ![](images/Cholera_image.webp)
+<br />
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -8,6 +9,7 @@
 - [Visuals in Power BI:](#visuals-in-power-bi)
 - [Interact With Power BI Dashboard Report](#interact-with-power-bi-dashboard-report)
 - [Conclusion](#conclusion)
+<br />
 
 ## Project Overview
 ### Introduction:
@@ -34,6 +36,7 @@ The analysis aims to investigate the epidemiological patterns and demographic ch
 - Moreover, the analysis will elucidate the cholera cases trend by gender on both a monthly and daily basis within the period, enabling the identification of temporal patterns and variations in infection rates among males and females throughout the course of the outbreak.
 
 By synthesizing these expected findings, the project aims to contribute valuable insights into the epidemiological dynamics of the Kolera Katerina outbreak, facilitating informed decision-making and enhancing our understanding of historical public health crises.
+<br />
 
 ### About The Dataset
 The data is collected from hand-written church records. The church was responsible for all population registration until around 1870. Only death records have been analyzed. Since Cholera has around 40% CFR we can assume a larger number of affected but surviving individuals.
@@ -58,6 +61,7 @@ The dataset contains 8 columns (translated to English Language) and 249 rows of 
 - __Archive_Ref:__ This column contains references to archival sources or documents related to the cholera outbreak. It provides information about the sources of the data, allowing for transparency and verification of the analysis.
 
 - __Page:__ This column refers to the page numbers of the archival documents or sources containing information about the cholera outbreak. It helps locate and retrieve specific records or data entries within the source material.
+<br />
 
 ### Skills Utilized
 1. Data Cleaning
@@ -65,6 +69,7 @@ The dataset contains 8 columns (translated to English Language) and 249 rows of 
 3. Descriptive Analytics
 4. Critical Thinking and Problem Solving
 5. Communication and Reporting
+<br />
 
 ### Tools Used
 1. MS Sql Server
@@ -81,6 +86,7 @@ The dataset contains 8 columns (translated to English Language) and 249 rows of 
         3. Page Navigation,
         4. Filters,
         5. Tooltips
+<br />
 
 ### ETL Process using MS Sql Server:
 1. Translated all the colume headers in __Swedish language__ to -__English__ for easy understanding.
@@ -91,29 +97,32 @@ The dataset contains 8 columns (translated to English Language) and 249 rows of 
 6. Added another column __"Day"__ from the __"Date_of_Death"__ column to display days of the week (sunday - saturday) using the "Update" and "Set query".
 7. Re-ordered all the columns in the table accordingly.
 8. You can take a look at the raw data and the sql query screenshot below:
-
+<br />
 
 Raw Data Screencshot                                                               |                       
 :---------------------------------------------------------------------------------:|
 ![](images/Raw_Data.png)
 
 You can preview the raw data file [here](kolera-katarina-1853.csv)
-
+<br />
 
 Sql Query Screenshot                                                               |                       
 :---------------------------------------------------------------------------------:|
 ![](images/MS_Sql_Server_Screenshot.png)
 
 You can preview the MS Sql Server query file [here](Cholera_Outbreak_Stockholm_1853_Project.sql)
-
-
+<br />
+<br />
 
 ## Data Modelling
 No modelling was required since we need just a table for the analysis.
-
+<br />
+<br />
 
 ## Visuals in Power BI:
 ![](images/Cholera_Outbreak_Stockholm_1853_Analysis_Dashboard.jpg)
+<br />
+<br />
 
 #### Analysis:
 From the analysis, our problem statement can be given answers to as analyzed below:
