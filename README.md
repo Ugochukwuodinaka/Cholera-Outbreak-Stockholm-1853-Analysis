@@ -13,29 +13,29 @@
 
 ## Project Overview
 ### Introduction:
-The cholera outbreak of 1853 in Stockholm, Sweden, colloquially known as "Kolera Katerina," represents a crucial moment in the city's history, where the convergence of urbanization and public health crises laid bare the vulnerabilities of a rapidly expanding metropolis. Originating in the Katarina neighborhood, the outbreak swiftly swept through the city, leaving devastation in its wake and exposing systemic shortcomings in sanitation infrastructure and healthcare provision.
+The cholera epidemic in 1853 known as the Kolera Katerina in Stockholm, Sweden became such a historical event when the two biggest social trends that characterized the modern world at the middle of the nineteenth century, the growth of cities and the crisis of health, prepare the field to demonstrate the vulnerability of a growing capital. The outbreak which was first observed in the district of Katarina expended very quickly in the area and demonstrated very dismal outcomes and deficiencies in sanitation and health care systems.
 
-This is part of research work on the history of Stockholm in the 19th century. Since Sweden has well-preserved church archives this permits getting detailed information about e.g. pandemic events. In this data collection, Information was gathered about the large cholera outbreak in late August 1853 to the month of November, 1853. About 3% of the population died within a couple of weeks. Poor parts of the city, such as S:t Catherine parish was hit very hard. This project endeavors to illuminate some key information of the 1853 outbreak, delving into the demography of the victims and the cases trend within the period.
+It relates to the study of the historical background of Stockholm from the nineteenth century as part of research. Thus, since Sweden has well-preserved church records providing access to detailed information about, for instance, pandemic occurrences due to the availability of preserved church records, this research became possible. The subject matter for data collection in this case was the large cholera outbreak that began in late August 1853 to the month of November in the same year. Approximately three percent of the population would be dead within two weeks of the infection. For instance, poor parts of the city, like S:Investment houses such as t Catherine parish were severely affected. The project shall therein endeavour to reveal some basic facts about the infamous 1853 outbreak, and more specifically about the victims’ demographic characteristics and the number of cases reported in the period.
 
 ### Problem Statement
-The analysis aims to investigate the epidemiological patterns and demographic characteristics of the Cholera Outbreak in Stockholm in 1883, with a focus on understanding the factors influencing disease transmission and impact. Specifically, the study seeks to address the following research questions:
-- What is the total number of cases within the period of this analysis?
-- What is the average age of victims?
-- What is the total number of male victims?
-- What is the total number of female victims?
-- What is the trend of Cholera cases by gender monthly?
-- What is the trend of Cholera cases by gender daily?
+The data analysis is supposed to explore the distribution of the Cholera Outbreak in Stockholm in 1883, as well as overall demographic trends, in order to determine the key factors that contributed to the epidemiological processes and outcomes. Specifically, the study seeks to address the following research questions:Specifically, the study seeks to address the following research questions:
+- From the available data, one may be asking how many cases were recorded in the period under analysis.
+- Who are victims? What is the average age of victims?
+- Lesser known is the fact that 13 men and boys were killed in the process, and to some extent what this reveals about the organization’s gender arrest dynamics.
+- The overall count of the number of women affected by the violence is?
+- I am particularly concerned with the number of cases of Cholera by the gender of the patients, by month.
+- How does it fare, the trend of Cholera cases by gender on a daily basis?
 
 ### Expected Finding:
-- In addressing the outlined problem statement concerning the cholera outbreak of 1853 in Stockholm, several key findings are anticipated. Firstly, the project aims to ascertain the total number of reported cases within the specified period of analysis, offering a comprehensive understanding of the outbreak's scale and impact on the population.
+- However, in relation to the outlined problem statement regarding the cholera outbreak of 1853 in Stockholm several important findings are expected. First, the project seeks to identify the total number of cases recorded in the selected period of analysis to gain a true extent of the outbreak and its effects on the populace.
 
-- Secondly, the investigation seeks to determine the average age of cholera victims within this period during the outbreak, providing insights into the demographic profile of those most affected by the disease.
+- Secondly, the study endeavours to establish the mortality rate of cholera patients in this period during the epidemic to identify the age demographic of the most affected vulnerable group.
 
-- Additionally, the project endeavors to quantify the total number of male and female victims separately, shedding light on potential gender disparities in susceptibility to cholera and informing targeted interventions.
+- Moreover, the field work also aims at developing the probative data of the total number of male and female separately in order to better determine whether gender has the tendency to predispose one to the deadly disease of cholera to create a better intervention schedule.
 
-- Moreover, the analysis will elucidate the cholera cases trend by gender on both a monthly and daily basis within the period, enabling the identification of temporal patterns and variations in infection rates among males and females throughout the course of the outbreak.
+- Also, the trend of the cholera cases by gender in terms of both monthly and daily will be determined in order to understand the changes in the rate of infection of the disease among the male and female during the period under analysis.
 
-By synthesizing these expected findings, the project aims to contribute valuable insights into the epidemiological dynamics of the Kolera Katerina outbreak, facilitating informed decision-making and enhancing our understanding of historical public health crises.
+Through the synthesis of these anticipated findings the project would add value in understanding the epidemiological trends of the Kolera Katerina outbreak so that there can be better formulation of decisions and policies concerning similar historic public health emergencies.
 <br />
 <br />
 
@@ -43,25 +43,20 @@ By synthesizing these expected findings, the project aims to contribute valuable
 The data is collected from hand-written church records. The church was responsible for all population registration until around 1870. Only death records have been analyzed. Since Cholera has around 40% CFR we can assume a larger number of affected but surviving individuals.
 
 All data can be found at the National Archive of Sweden. See [here](https://sok.riksarkivet.se/digitala-forskarsalen) (press "Other languages" for an English version). Another important source for further analysis is "Sundhets-collegii underdåniga berättele om 
-Kolerafarsoten i Sverge, 1853" which is a broad overview of the epidemic situation in all of Sweden. This contemporary report can be found at Statistics Sweden (SCB): See [link](https://share.scb.se/ov9993/data/historisk%20statistik/Officiell%20statistik%201811-1860%2FHälso-%20och%20sjukvården1851-1860%2FSundhetskollegii-underdaniga-berattelse-om-Medicinalverket-i-riket-1853-Bihang.pdf). The data is in .csv file format and you can view or download the dataset [here](kolera-katarina-1853.csv). 
+Kolerafarsoten i Sverge, 1853" which is a broad overview of the epidemic situation in all of Sweden. This contemporary report can be found at Statistics Sweden (SCB): See [link](https://share.scb.se/ov9993/data/historisk%20statistik/Officiell%20statistik%201811-1860%2FHälso-%20och%20sjukvården1851-1860%2FSundhetskollegii-underdaniga-berattelse-om-Medicinalverket-i-riket-1853-Bihang.pdf). The data is in a .csv file format and you can view the dataset [here](kolera-katarina-1853.csv). 
 
-The dataset contains 8 columns (translated to English Language) and 249 rows of data. Here's a breakdown of what each column represents:
+The dataset contains 8 fields (translated to English Language) and 249 rows of data. Below is a data dictionary of this dataset:
 
-- __Date_of_Birth:__ This column contains the date of birth of individuals affected by the cholera outbreak. It provides information about the age of the individuals, which is essential for demographic analysis.
-
-- __Name:__ This column contains the names of the individuals affected by the cholera outbreak. It helps identify and track individual cases, allowing for more detailed analysis and record-keeping.
-
-- __Profession:__ This column lists the professions or occupations of the individuals affected by the cholera outbreak. It provides insights into the demographics and socio-economic characteristics of the affected population.
-
-- __Gender:__ This column indicates the gender of the individuals affected by the cholera outbreak. It allows for gender-based analysis of the outbreak, which may reveal disparities or differences in disease susceptibility and outcomes.
-
-- __Age:__ This column contains the age of the individuals affected by the cholera outbreak. It provides numerical data on the age distribution of cases, which is essential for epidemiological analysis and understanding disease patterns.
-
-- __Assembly:__ This column refers to the administrative or geographical assembly to which the individuals belong. It helps organize and categorize the data based on location, which can be useful for spatial analysis and identifying clusters of cases.
-
-- __Archive_Ref:__ This column contains references to archival sources or documents related to the cholera outbreak. It provides information about the sources of the data, allowing for transparency and verification of the analysis.
-
-- __Page:__ This column refers to the page numbers of the archival documents or sources containing information about the cholera outbreak. It helps locate and retrieve specific records or data entries within the source material.
+| Table                              | Field                    | Description                            |            
+|:-----------------------------------|:------------------------ |:-------------------------------------- |
+|Kolera-Katarina-1853.csv            | Date_of_Birth            | This column, therefore, holds the date of birth to the people impacted on by the cholera outbreak. It presents data on the age of the people and this is an important factor that forms the basis of demographic studies.    |
+|                                    | Name                     | This column has the names of the affected persons with cholera. They can track instances of implementation at the individual level allowing for following up on the particular cases.     |
+|                                    | Profession               | This column captures the profession or occupation of the affected persons in the cholera incident. Vaccination also helps in the offering of information regarding the population affected as well as the social and economic factors associated with them.         |
+|                                    | Gender                   | This column would represent the sex of the people that got affected by this cholera outbreak. It makes it possible to compare genders concerning the question and the outbreak notifying on the differences or inequality in the vulnerability to such diseases or outcomes of the infected ones.         |
+|                                    | Age                      | This column holds the age of the cholera afflicted people. It delivers a quantitative analysis of the age distribution of the cases that is vital in the study of the incidence of diseases.        |
+|                                    | Assembly                 | This column indicates the jurisdictional or managerial unit that the mentioned people pertain to. It assists in sorting the data according to the geographical area that may be important when analyzing the data in order to find out if cases are concentrated in certain areas.        |
+|                                    | Archive_Ref              | This column shows links to the available source of the archival materials/documents that can be associated with the cholera outbreak. It creates awareness to the sources of the data so that the reader can verify the information given in the analysis.       |
+|                                    | Page                     | This column indicates the page number/s where in the particular archival documents/source, information pertaining to the cholera outbreak is found in. It aids in searching for and identifying certain record or data points within the source documents.         |
 <br />
 
 ### Skills Utilized
