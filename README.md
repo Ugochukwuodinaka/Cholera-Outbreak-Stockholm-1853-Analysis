@@ -132,14 +132,14 @@ From the analysis, our problem statement can be given answers to as analyzed bel
 - <img src="images/Age_Distribution_of%20_Cholera_Cases.jpg" width="500">
 
 - **Age Distribution of Cholera Cases:**
-- Analyzing the age factor concerning the perennial growth rate, we could have concluded that one-year-old infants and below were at a higher risk of getting the cholera epidemic and, therefore, had the most significant number of the cholera epidemic, one which was about thirteen, followed by other infants in the age range of 2 – 4 years, which had a high number of about twenty-three. The second population that suffered numerous cases was young adults after the children. The victims aged 33 withnessed 10 cases those with 34 years had 7 cases while those 37 years of age had 8 cases. Youths within the age group of 20-39 yrs contracted this scourge most. Out of the people of the working-age, 28% follows also at the age of 40 - 60yrs of age, the old aged groups and the teenagers also follow with a certain percentage.
+- Age distribution of victims: From this, we could deduce that infants who were a year old or below were more susceptible to the cholera epidemic and therefore had the highest cases of the cholera epidemic at about 13 infants, with other infants within the age of 2 to 4 having the large number of 23 together. The second group of people with the most number of cases were young adults, immediately after the children. There were 10 victims aged 33; 7 aged 34 years while 8 were aged 37 years. The ages that fell victims to this outbreak the most were those aged between 20 - 39 years. The classification continues with high figures from those within the 40-60-year-old age bracket, followed by the old aged, and lastly by the teenagers.
 <br />
 <br />
 
 - <img src="images/Gender_Distribution_of_Cholera_Cases.jpg" width="300">
 
 - **Gender Distribution of Cholera Cases:**
-- Wherein in our analysis, the female gender dwindled more in this period of analysis compared to the male gender, it resulted in 126 victims sharing 52.28 percent of the count. The males have counted 115 victims sharing 47.72 percent of the count. Hence, we would like to ask, why did we record more deaths of the females than the males? Is there a reason for that? From our analysis, the reasons are attributed to the factors stated below:
+- Wherein in our analysis, the female gender dwindled more in this period of analysis compared to the male gender, it resulted in 126 victims sharing 52.28 percent of the count. The males have counted 115 victims sharing 47.72 percent of the count. Hence, we would like to ask, why did we record more deaths of the females than the males? Is there a reason for that? From our analysis, the reasons may be attributed to the factors stated below:
 
    1. Women, in many societies at that time, played different roles and thus led lives that differed from men in a number of ways. For instance, they were more involved in caring and household activities, which may have increased their exposure to contaminated water- or food-borne sources, leading to a higher risk of cholera.
 
@@ -149,7 +149,7 @@ From the analysis, our problem statement can be given answers to as analyzed bel
 
    4. In the event that there were certain occupations which were peculiarly held by women during that time period in Stockholm, such as domestic work or certain kinds of factory labor, they likely would have had increased exposure to contaminated environments and thus potentially higher rates of infection.
 
-   5. The difference in hygiene behavior of both sexes—should any exist—may explain differences in cholera transmission. For example, if women were responsible for food preparation or childcare, they may have been more likely to come into contact with contaminated surfaces or objects.
+   5. The difference in hygiene behavior of both sexes, should any exist, may explain differences in cholera transmission. For example, if women were responsible for food preparation or childcare, they may have been more likely to come into contact with contaminated surfaces or objects.
 
    6. Cultural norms and expectations, such as acting modest or deferring to male authority figures, may have been a steady determinant for a woman seeking timely medical care or adhering to preventive measures against cholera.
 <br />
@@ -158,91 +158,60 @@ From the analysis, our problem statement can be given answers to as analyzed bel
 - <img src="images/Age_Band_of_Cholera_Cases.jpg" width="300">
 
 - **Age Band Distribution of Cholera Cases:**
-- From the Age Band distribution, we could see that Young Adults (20 - 39yrs) had the highest number of cholera cases of 80, while the Mid Aged (40 - 60yrs) follows witb 78 cases. The Children (less than 1 - 12yrs) follows with 52 cases, the Old Aged (60+yrs) with 25, and lastly, the Teenagers (13 - 19yrs) with 6 cases. We may also go further to analyze this age band case tolls and what could have influenced the numbers among the different age bands. From further analysis, i was able to deduce the following poits:
+- From the Age Band distribution, it could be seen that the Young Adults (20 - 39 years) had the highest number of cholera cases at 80, and the Mid Aged (40 - 60 years) followed with 78 cases. Next in line were the Children, less than 1 - 12yrs, with 52, the Old Aged, 60+ yrs, with 25, and lastly, the teenagers, 13 - 19yrs, categories with 6 cases. We can go further and analyze the case toll in this age band and what could be the influence of the numbers among the different age bands. I was able to deduce from further analysis the following points: 
 
-   1. __Young Adults (20 - 39yrs):__ The high number of cases in this age group could be attributed to factors such as increased 
-      mobility, social interaction, and exposure to contaminated environments. Young adults may have been more likely to engage in 
-      activities that put them at risk of cholera transmission, such as working in crowded urban areas or living in densely 
-      populated neighborhoods with inadequate sanitation infrastructure.
+    1. __Young Adults (20 – 39yrs):__ The high number of cases in this age group may be a result of very many factors, which could be increased mobility, social interaction, and exposure to contaminated environments. Young adults may be more likely to have engaged in risky activities for transmission of cholera, for example, working in crowded spots in urban areas or living in heavily populated neighborhoods with poor infrastructure or sanitation.
 
-   2. __Mid Aged (40 - 60yrs):__ Similar to young adults, individuals in this age group may have been exposed to cholera through 
-      occupational activities or household responsibilities. Additionally, mid-aged individuals might have faced challenges in 
-      accessing healthcare or adhering to preventive measures due to family obligations or work commitments.
+    2. __Mid-Aged 40 - 60yrs:__ The people in this group could, like the young adults, have had exposure to cholera through occupational activities or household responsibilities. additionally, the mid-aged category may have had difficulties in visiting health centres and adhering to preventive measures since they are forced by family or work-related responsibilities.
 
-   3. __Children (less than 1 - 12yrs):__ Children are often more vulnerable to infectious diseases due to their developing immune 
-      systems and higher likelihood of exposure in communal settings such as schools or daycare centers. Poor hygiene practices, 
-      inadequate sanitation facilities, and limited access to clean water could have contributed to the relatively high number of 
-      cholera cases among children.
+    3. __Children (less than 1 - 12yrs):__ Children are, more often than not, more susceptible to infections due to their immature immune systems and a higher tendency of being in settings where infection exposure is high, for example, schools or day-care centers. Poor hygiene practices, inadequate sanitation facilities and limited access to clean water might have contributed to the relatively high number of cholera cases among children.
 
-   4. __Old Aged (60+yrs):__ Older adults may have been at increased risk of cholera complications due to age-related decline in immune 
-      function and higher prevalence of underlying health conditions. Limited mobility, social isolation, and challenges in 
-      accessing healthcare services could have further exacerbated their vulnerability to cholera infection.
-
-   5. __Teenagers (13 - 19yrs):__ The low number of cases among teenagers could be attributed to factors such as healthier immune 
-      systems, adherence to hygiene practices, and potentially lower exposure to contaminated environments compared to other age 
-      groups. However, socio-economic factors, including access to clean water and sanitation facilities, may have also played a 
-      role in shaping the incidence of cholera among teenagers.
+    4. __Old Aged 60+yrs:__ Older adults might have been exposed to an increased risk from complications of cholera due to age-related decline in their immune systems. This would be attributed to factors such as reduced levels of functioning and a higher prevalence of underlying health conditions. Reduced mobility, social isolation, or difficulties in accessing health care services could also have aggravated the vulnerability of the age group to cholera infection.
+ 
+    5. __Teenagers (13 - 19yrs):__ The low number of cases among teenagers can be attributed to variables such as healthier immune systems. It is, therefore, likely that this age group retained a better system of maintaining hygiene and avoiding contaminated settings in the slum environment. Cholera incidence among teenagers would, therefore, be expected to differ due to differences in socioeconomics.
 <br />
 <br />
 
 - <img src="images/Cholera_Cases_Trend_Across_Months_by_Gender.jpg" width="500">
 
 - **Cholera Cases Trend Across Months by Gender:**
-- September had the highest number of cases trend by gender and month with 178 cases of which 91 were females and 87 were males. The month of October recorded 40 cases, 26 of which were females, while 14 were males. 10 female cases were recorded in the month of August and males were 2, totaling 12 cases. In November, 7 female cases were recorded and 4 male cases, totaling them to 11 cases. We can dig deeper into this trend in our analysis to generate more insight into factors that may have influenced these large figures within the specified months:
+- September had the highest number of cases trending by gender and month with 178 cases of which 91 were females and 87 were males. The month of October recorded 40 cases, 26 of which were females, while 14 were males. 10 female cases were recorded in the month of August and males were 2, totaling 12 cases. In November, there were 7 female cases and 4 male cases, totaling them to 11 cases. We can further as part of our analysis investigate this trend to come up with more insight into factors that would have influenced these large figures within the months that have been stipulated:
 
-   1. __September:__ The highest number of cases occurred in September, with 91 females and 87 males affected. This could be attributed 
-      to various factors, including environmental conditions favoring cholera transmission, such as warmer temperatures or increased 
-      rainfall, which are conducive to bacterial growth in water sources. Additionally, socio-economic factors such as overcrowded 
-      living conditions or inadequate sanitation infrastructure may have contributed to heightened transmission rates during this period.
+    1. __September :__ September had the highest number of cases at 91 females and 87 males. 
+This might be attributed to several factors, either environmental conditions that enhance the transmission of cholera through temperature or a rise in rainfall, hence bacteria growth in water sources. Concurrently, socio-economic factors such as overcrowding, and bad sanitation infrastructure, among others, contributed to this high rate of transmission.
 
-   2. __October:__ While the number of cases declined in October compared to September, a significant proportion of cases still 
-      occurred, with 26 females and 14 males affected. Factors influencing the continuation of the outbreak into October could include 
-      delayed implementation of public health interventions, ongoing contamination of water sources, or challenges in accessing clean 
-      water and sanitation facilities in affected areas.
+    2. __October:__ Although fewer cases occurred in October as compared to the number in September, a fair share of the cases still occurred, affecting 26 females and 14 males. Factors that could have influenced the continuation of the outbreak into October may be delayed public health response or sustained contamination of water sources; and challenges in safely accessing clean water and sanitation facilities in affected communities.
 
-   3. __August and November:__ Although fewer cases were reported in August and November compared to September and October, they still 
-      contributed to the overall burden of the outbreak. The occurrence of cases in August may indicate the initial stages of the 
-      outbreak, while cases in November suggest ongoing transmission or localized outbreaks. Factors such as population movements, 
-      migration patterns, or changes in weather conditions could have influenced the distribution of cases during these months.
+    3. __August and November:__ Although fewer cases were reported in August and November compared to September and October, they still contributed to the impact of the epidemic. This contributed to the generally high burden of the outbreak. The August cases could point out the first stage of the outbreak, and those in November refer to continued transmission or localized outbreaks. Other ingredients like population movements, migration patterns, or changes in weather conditions may have influenced the distribution of cases during these months.
 <br />
 <br />
 
 - <img src="images/Cholera_Cases_Trend_Across_Days_by_Gender.jpg" width="500">
 
 - **Cholera Cases Trend Across Days by Gender:**
-- From the trend of Cholera cases across the days of the week by gender within this analysis period, our insight shows that Thurdays witnessed the highest number of cases with 44 cases, 25 of which were females and 19 were males. Tuesdays follows with 24 female cases and 20 male cases, making them 44 cases. Mondays and Saturdays recorded same figures of 21 females and 16 males respectively, a total of 37 apiece. Fridays follows next with a total of 26 cases, 15 from the female folks, while 11 were from the male folks. Lastly, Sundays witnessed a total of 21 cases, 10 females and 11 males respectively. We may also want to know what influenced these great number of cholera cases on these diffrent days of the week. My further analysis raised some insights:
+- From the trend of Cholera cases across days of the week by gender during the period under this analysis, our insight indicates that Thursdays registered the highest number at 44, with females being 25 and males being 19. This is followed by Tuesdays, which recorded 24 females and 20 males to make them 44. Mondays and Saturdays recorded similar figures: 21 females and 16 males respectively to the total of 37 apiece. Fridays followed next with a total of 26 cases: 15 from the female folks, while 11 were from the male folks. Sundays witnessed a total of 21 cases, 10 females and 11 males respectively. We may also want to know what influences these great numbers of cholera cases on these different days of the week. Further analysis has raised some insights:
 
-   1. __Thursdays:__ The highest number of cases occurring on Thursdays could be attributed to various factors, including behavioral 
-      patterns such as increased social activities or gatherings leading to higher exposure to contaminated food or water sources. 
-      Additionally, factors such as food preparation practices, sanitation conditions, or water supply disruptions may contribute to 
-      heightened transmission rates on Thursdays.
+    1. __Thursdays:__ Various factors may account for the high number of cases on Thursdays, such as increased social activities or gatherings that involve contaminated food or water sources. Then again, food preparation practices, bead-like sanitation conditions, or even disruptions in water supply may play a role in increased transmission on Thursdays.
 
-   2. __Tuesdays:__ Similar to Thursdays, Tuesdays also witnessed a relatively high number of cases, potentially reflecting similar 
-      behavioral or environmental factors influencing cholera transmission. Increased mobility or commerce activities, such as market 
-      days or transportation of goods, could contribute to higher exposure levels on Tuesdays.
+    2. __Tuesdays:__ On Tuesdays, the number of cases was more or less the same as on Thursdays, which may point to some similar behavioral or environmental factor that influences cholera transmission. In this case, there could be a higher degree of mobility or activities related to commerce, like market days or the transporting of goods.
 
-   3. __Mondays and Saturdays:__ The occurrence of similar numbers of cases on Mondays and Saturdays suggests that certain routine 
-      activities or environmental conditions may be contributing to cholera transmission on these days. Factors such as communal 
-      gatherings, religious ceremonies, or variations in water supply and sanitation services could influence the distribution of cases 
-      on Mondays and Saturdays.
+    3. __Mondays and Saturdays:__ The occurrence of similar numbers of cases on Mondays and Saturdays indicates that some routine activities or environmental conditions play a role in cholera transmission on these days. Some of the factors that may have an influence on case distribution on these days, that is, Mondays and Saturdays, include; communal gatherings, religious ceremonies, and fluctuations in water supply and sanitation services.
 
-   4. __Fridays and Sundays:__ While Fridays witnessed a slightly higher number of cases compared to Sundays, both days had relatively 
-      lower case counts compared to Thursdays and Tuesdays. Factors such as reduced commercial activities, changes in social behaviors, 
-      or improved access to healthcare services on weekends may contribute to the lower number of cases on Fridays and Sundays.
+    4. __Fridays and Sundays:__ Fridays recorded a slightly higher case count compared to Sundays, but both days were relatively fewer in cases compared to Thursdays and Tuesdays. These may have been facilitated by decreased business activities, altered social conduct, or improved access to health services on Fridays and Sundays.
 <br />
 <br />
 
 ## Interact With Power BI Dashboard Report
-You can interact with this report [here](https://app.powerbi.com/view?r=eyJrIjoiNjkxZmMxMDYtMWMyYS00Yjc3LTlkYjItNDgzNjBhM2Q3ZjU5IiwidCI6IjdlYzI5NjU5LTNjZjItNGYzZi1hYmIzLWE3MjJlZGY3ZmYyZCJ9).The dashboard report on Cholera Outbreak, Stockholm, 1883 Analysis displays an interactive visual of the project in power BI.
+You can view and interact with this report [here](https://app.powerbi.com/view?r=eyJrIjoiNjkxZmMxMDYtMWMyYS00Yjc3LTlkYjItNDgzNjBhM2Q3ZjU5IiwidCI6IjdlYzI5NjU5LTNjZjItNGYzZi1hYmIzLWE3MjJlZGY3ZmYyZCJ9).The dashboard report on Cholera Outbreak, Stockholm, 1883 Analysis displays an interactive visual of the project in power BI.
 <br />
 <br />
 <br />
 <br />
 
 ## Conclusion
-- In summary, the analysis of the cholera outbreak in Stockholm in 1883 shows how factors like sanitation, education, and collaboration influence disease spread. Understanding these patterns helps us learn how to prevent outbreaks in the future. By improving hygiene, educating the public, and working together, we can better protect communities from diseases like cholera.
+- The three important factors in the spread of cholera, which were well captured by the 1883 Stockholm cholera outbreak, are sanitation, education, and collaboration. Knowing the different patterns in outbreaks like this would mean we understand how to improve defenses against future outbreaks. In this regard, improving hygiene standards, educating the public, and working together will lower the potential for an outbreak of a cholera-like disease to affect a community.
 
-- It also teaches us important lessons about preventing diseases. By keeping things clean, teaching people how to stay healthy, and working together, we can stop outbreaks from happening. It's a reminder that simple actions can make a big difference in keeping communities safe and healthy.
+- Looking at this analysis, we also see the need to mitigate the spread of illnesses as seen in the Stockholm cholera outbreak. Outbreaks can be stopped by keeping things and environments clean, teaching people how to be and live healthy, and working together with others to prevent outbreaks. We should remember that simple acts of proffering solutions could enormously influence the emergence of safe and healthy communities.
 <br />
 <br />
 
