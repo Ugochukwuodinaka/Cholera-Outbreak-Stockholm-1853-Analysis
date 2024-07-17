@@ -141,17 +141,17 @@ From the analysis, our problem statement can be given answers to as analyzed bel
 - **Gender Distribution of Cholera Cases:**
 - Wherein in our analysis, the female gender dwindled more in this period of analysis compared to the male gender, it resulted in 126 victims sharing 52.28 percent of the count. The males have counted 115 victims sharing 47.72 percent of the count. Hence, we would like to ask, why did we record more deaths of the females than the males? Is there a reason for that? From our analysis, the reasons are attributed to the factors stated below:
 
-        1. Women, in many societies at that time, played different roles and thus led lives that differed from men in a number of ways. For instance, they were more involved in caring and household activities, which may have increased their exposure to contaminated water- or food-borne sources, leading to a higher risk of cholera.
+   1. Women, in many societies at that time, played different roles and thus led lives that differed from men in a number of ways. For instance, they were more involved in caring and household activities, which may have increased their exposure to contaminated water- or food-borne sources, leading to a higher risk of cholera.
 
-        2. Access to healthcare differed between the two sexes. Quite probably, social norms or economic constraints limited the females' access to medical treatment, thus entailing delays or poor health care in case of cholera symptoms.
+   2. Access to healthcare differed between the two sexes. Quite probably, social norms or economic constraints limited the females' access to medical treatment, thus entailing delays or poor health care in case of cholera symptoms.
 
-        3. The other reasons may be biological gender-specific differences. This means that hormones or other genetic predispositions could have been influenced susceptibility to cholera or the severity of its symptoms.
+   3. The other reasons may be biological gender-specific differences. This means that hormones or other genetic predispositions could have been influenced susceptibility to cholera or the severity of its symptoms.
 
-        4. In the event that there were certain occupations which were peculiarly held by women during that time period in Stockholm, such as domestic work or certain kinds of factory labor, they likely would have had increased exposure to contaminated environments and thus potentially higher rates of infection.
+   4. In the event that there were certain occupations which were peculiarly held by women during that time period in Stockholm, such as domestic work or certain kinds of factory labor, they likely would have had increased exposure to contaminated environments and thus potentially higher rates of infection.
 
-        5. The difference in hygiene behavior of both sexes—should any exist—may explain differences in cholera transmission. For example, if women were responsible for food preparation or childcare, they may have been more likely to come into contact with contaminated surfaces or objects.
+   5. The difference in hygiene behavior of both sexes—should any exist—may explain differences in cholera transmission. For example, if women were responsible for food preparation or childcare, they may have been more likely to come into contact with contaminated surfaces or objects.
 
-        6. Cultural norms and expectations, such as acting modest or deferring to male authority figures, may have been a steady determinant for a woman seeking timely medical care or adhering to preventive measures against cholera.
+   6. Cultural norms and expectations, such as acting modest or deferring to male authority figures, may have been a steady determinant for a woman seeking timely medical care or adhering to preventive measures against cholera.
 <br />
 <br />
 
