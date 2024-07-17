@@ -79,9 +79,8 @@ The dataset contains 8 fields (translated to English Language) and 249 rows of d
     - The following Power BI Features were incorporated:
         1. DAX,
         2. Quick Measures,
-        3. Page Navigation,
-        4. Filters,
-        5. Tooltips
+        3. Filters,
+        4. Tooltips
 <br />
 
 ### ETL Process using MS Sql Server:
@@ -90,9 +89,10 @@ The dataset contains 8 fields (translated to English Language) and 249 rows of d
 3. Translated rows in the __Name__ and __Profession__ columns from __Swedish language__ to __English language__ for a better understanding of the table data (did this in excel with the help of a language translation site because of the volume of data rows) .
 4. Translated all the rows of the __Gender__ and __Assembly__ columns from __Swedish language__ to __English language__ for a better understanding of the table data.
 5. Added a new column __"Age_Band"__ from the __"Age"__ column to enable me group the victims into __age brackets__ using the "Update" and "Set query".
-6. Added another column __"Day"__ from the __"Date_of_Death"__ column to display days of the week (sunday - saturday) using the "Update" and "Set query".
+6. Added another column __"Day"__ from the __"Date_of_Death"__ column to display days of the week (sunday - saturday) using the "Update" and "Set query" in SQL.
 7. Re-ordered all the columns in the table accordingly.
-8. You can take a look at the raw data and the sql query screenshot below:
+
+You can take a look at the raw data and the sql query screenshot below:
 <br />
 
 Raw Data Screencshot                                                               |                       
@@ -111,7 +111,7 @@ You can preview the MS Sql Server query file [here](Cholera_Outbreak_Stockholm_1
 <br />
 
 ## Data Modelling
-No modelling was required since we need just a table for the analysis.
+No modelling was required since we had just one table for this analysis.
 <br />
 <br />
 
@@ -120,7 +120,7 @@ No modelling was required since we need just a table for the analysis.
 <br />
 <br />
 
-#### Analysis:
+#### Project Analysis:
 From the analysis, our problem statement can be given answers to as analyzed below:
 - The total number of cases within the analysis period was __248.__
 - The average age of the victims was __34.__
@@ -132,35 +132,26 @@ From the analysis, our problem statement can be given answers to as analyzed bel
 - <img src="images/Age_Distribution_of%20_Cholera_Cases.jpg" width="500">
 
 - **Age Distribution of Cholera Cases:**
-- Looking at the age distribution of victims, we could deduce that infants who were a year old or below were more susceptible to the cholera epidemic and had the highest number of the cholera epidemic cases which was about 13 infants, with other infants within the age of 2 to 4 having a large number of 23 together. Young adults were the second group of people that had the highest number of cases after the children. Victims aged 33 withnessed 10 cases, those 34yrs of age had 7 cases, those 37yrs of age accounted for 8 cases. Those within the age of 20 - 39yrs of age fell victims to this outbreak the most. Those within the age of 40 - 60yrs of age follows also with a high figure, followed by the old aged, and lastly, by the teenagers.
+- Analyzing the age factor concerning the perennial growth rate, we could have concluded that one-year-old infants and below were at a higher risk of getting the cholera epidemic and, therefore, had the most significant number of the cholera epidemic, one which was about thirteen, followed by other infants in the age range of 2 – 4 years, which had a high number of about twenty-three. The second population that suffered numerous cases was young adults after the children. The victims aged 33 withnessed 10 cases those with 34 years had 7 cases while those 37 years of age had 8 cases. Youths within the age group of 20-39 yrs contracted this scourge most. Out of the people of the working-age, 28% follows also at the age of 40 - 60yrs of age, the old aged groups and the teenagers also follow with a certain percentage.
 <br />
 <br />
 
 - <img src="images/Gender_Distribution_of_Cholera_Cases.jpg" width="300">
 
 - **Gender Distribution of Cholera Cases:**
-- From our analysis, the female gender had more casualties within this period of analysis than the male gender with 126 victins and a 52.28% share of the victims count, while the males had 115 victims with a 47.72% share of the count. We may ask, why did we record more deaths of the females than the males? Is there a reason for this? From our analysis, this can be attributed to the below factors:
+- Wherein in our analysis, the female gender dwindled more in this period of analysis compared to the male gender, it resulted in 126 victims sharing 52.28 percent of the count. The males have counted 115 victims sharing 47.72 percent of the count. Hence, we would like to ask, why did we record more deaths of the females than the males? Is there a reason for that? From our analysis, the reasons are attributed to the factors stated below:
 
-   1. In many societies during that era, women often had different roles and behaviors compared to men. For instance, they might 
-      have been more involved in caregiving or household activities, which could have increased their exposure to contaminated water 
-      or food sources, thereby raising their risk of contracting cholera.
+        1. Women, in many societies at that time, played different roles and thus led lives that differed from men in a number of ways. For instance, they were more involved in caring and household activities, which may have increased their exposure to contaminated water- or food-borne sources, leading to a higher risk of cholera.
 
-   2. Women might have had different access to healthcare compared to men. It's possible that societal norms or economic constraints 
-      limited women's access to medical treatment, resulting in delayed or inadequate care for cholera symptoms.
+        2. Access to healthcare differed between the two sexes. Quite probably, social norms or economic constraints limited the females' access to medical treatment, thus entailing delays or poor health care in case of cholera symptoms.
 
-   3. Biological differences between genders could also play a role. Hormonal factors or genetic predispositions might have 
-      influenced susceptibility to cholera or the severity of the disease's symptoms.
+        3. The other reasons may be biological gender-specific differences. This means that hormones or other genetic predispositions could have been influenced susceptibility to cholera or the severity of its symptoms.
 
-   4. If certain occupations were predominantly held by women in Stockholm during that period, such as domestic work or certain 
-      types of factory labor, they might have faced increased exposure to contaminated environments, contributing to higher 
-      infection rates.
+        4. In the event that there were certain occupations which were peculiarly held by women during that time period in Stockholm, such as domestic work or certain kinds of factory labor, they likely would have had increased exposure to contaminated environments and thus potentially higher rates of infection.
 
-   5. Differences in hygiene practices between genders could have affected cholera transmission rates. For example, if women were 
-      responsible for food preparation or childcare, they might have been more likely to come into contact with contaminated 
-      surfaces or objects.
+        5. The difference in hygiene behavior of both sexes—should any exist—may explain differences in cholera transmission. For example, if women were responsible for food preparation or childcare, they may have been more likely to come into contact with contaminated surfaces or objects.
 
-   6. Cultural norms and expectations regarding behavior, such as modesty or deference to male authority figures, might have 
-      influenced women's ability to seek timely medical care or adopt preventive measures against cholera.
+        6. Cultural norms and expectations, such as acting modest or deferring to male authority figures, may have been a steady determinant for a woman seeking timely medical care or adhering to preventive measures against cholera.
 <br />
 <br />
 
