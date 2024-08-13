@@ -103,7 +103,7 @@ Sql Query Screenshot                                                            
 :---------------------------------------------------------------------------------:|
 ![](images/MS_Sql_Server_Screenshot.png)
 
-You can preview the MS Sql Server query file [here](Cholera_Outbreak_Stockholm_1853_Project.sql)
+You can preview the MS Sql Server query file [here](Cholera_Outbreak_Stockholm_1853_Project.sql.sql)
 <br />
 <br />
 
