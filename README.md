@@ -81,16 +81,15 @@ The dataset contains 8 fields (translated to English Language) and 249 rows of d
         4. Tooltips
 <br />
 
-### ETL Process using MS Sql Server:
-1. Translated all the colume headers in __Swedish language__ to -__English__ for easy understanding.
-2. Transformed the column types in all the tables to the right column types.
-3. Translated rows in the __Name__ and __Profession__ columns from __Swedish language__ to __English language__ for a better understanding of the table data (did this in excel with the help of a language translation site because of the volume of data rows) .
-4. Translated all the rows of the __Gender__ and __Assembly__ columns from __Swedish language__ to __English language__ for a better understanding of the table data.
-5. Added a new column __"Age_Band"__ from the __"Age"__ column to enable me group the victims into __age brackets__ using the "Update" and "Set query".
-6. Added another column __"Day"__ from the __"Date_of_Death"__ column to display days of the week (sunday - saturday) using the "Update" and "Set query" in SQL.
-7. Re-ordered all the columns in the table accordingly.
+### Data Cleaning, Transformation and Loading using the MS Sql Server:
+1. Made sure that all the data types of the tables in this dataset are of the right data type.
+2. Translated all the colume headers in __Swedish language__ to __English Language__ for better understanding.
+3. Translated all the rows of the __"Profession"__, __"Gender"__, and __"Assembly"__ columns from __Swedish language__ to __English language__ for a better understanding of the table data.
+4. Added a new column __"Age_Band"__ from the __"Age"__ column to enable me group the victims into age brackets using the _"Update"_ and _"Set query"_.
+5. Added another column __"Day"__ from the __"Date_of_Death"__ column to display days of the week (sunday - saturday)using the _"Update"_ and _"Set query"_.
+6. Re-ordered all the columns in the table accordingly.
 
-You can take a look at the raw data and the sql query screenshot below:
+- You can take a look at the raw data and the sql query screenshot below:
 <br />
 
 Raw Data Screencshot                                                               |                       
